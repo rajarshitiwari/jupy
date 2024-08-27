@@ -1,6 +1,6 @@
-# JupyterLite for QPCC
+# Live Web based Jupyter environment based on JupyterLite
 
-[![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://jupyterlite.github.io/demo)
+[![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://rajarshitiwari.github.io/jupy)
 
 [![deploy](./.github/workflows/deploy.yml/badge.svg)](./.github/workflows/deploy.yml)
 
