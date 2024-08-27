@@ -12,7 +12,7 @@ Testing JupyterLite as a static site to GitHub Pages, to see if we can use it fo
 
 ## The repl
 
-**https://rajarshitiwari.github.io/repl/index.html?kernel=python**
+**https://rajarshitiwari.github.io/jupy/repl/index.html?kernel=python**
 
 ![github-pages](https://user-images.githubusercontent.com/591645/120649478-18258400-c47d-11eb-80e5-185e52ff2702.gif)
 
