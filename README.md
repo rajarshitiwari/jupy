@@ -8,7 +8,11 @@ Testing JupyterLite as a static site to GitHub Pages, to see if we can use it fo
 
 ## ✨ Try it in your browser ✨
 
-➡️ **https://rajarshitiwari.github.io/jupyterlite/**
+➡️ **https://rajarshitiwari.github.io/jupy/**
+
+## The repl
+
+**https://rajarshitiwari.github.io/repl/index.html?kernel=python**
 
 ![github-pages](https://user-images.githubusercontent.com/591645/120649478-18258400-c47d-11eb-80e5-185e52ff2702.gif)
 
